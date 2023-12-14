@@ -1,0 +1,22 @@
+.backgrond1 {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/codingbg.png");
+    background-size: cover;
+    height:100vh;
+    padding:100px;
+    
+}
+
+.heading {
+    
+    color: white;
+    font-family:"breeserif";
+    
+} 
+.container{
+    text-align: center;
+    background-color: #00000080;
+    padding:5px;
+    border: 10px solid #48ee59 ;
+    border-radius:0px; 
+    border-width:5px;
+}
